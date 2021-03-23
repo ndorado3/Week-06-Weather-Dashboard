@@ -1,0 +1,23 @@
+/* Styling for the header */
+.header {
+  padding: 25px;
+  text-align: center;
+  background: #333746;
+  color: white;
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+}
+/* Style for the search Button */
+.btn {
+  width: 20%;
+  padding: 5px;
+  background: #2196F3;
+  color: white;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+.btn {
+  background: #0b7dda;
+}
